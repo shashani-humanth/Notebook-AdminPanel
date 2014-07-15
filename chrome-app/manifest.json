@@ -1,0 +1,15 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "background.js" ]
+      }
+   },
+   "name": "todo",
+   "description": "web application",
+   "version": "1.0.0",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png"
+   },
+   "permissions": [ "webview", "fileSystem", "unlimitedStorage", "storage" ]
+}
