@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -34,3 +35,29 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# Exclude the .htaccess file
+.htaccess
+
+# Exclude any PSD/AI source
+*.psd
+*.ai
+ 
+# Exclude the build products
+build/*
+*.[oa]
+
+# Exclude OS X folder attributes
+.DS_Store
+ 
+# Exclude Text Files
+*.txt
+# Except read me
+!README.txt
+
+# Exclude log files
+*.log
+
+# Exclude Fonts
+_fonts/
+ 
