@@ -10,4 +10,4 @@ custom admin dashboard, admin panel, application backend, etc.
 Being a RESTful api, this template is developed using HTML5 Markup & CSS3, while used some CSS and integrates several 
 components, including mobile widgets and web app layouts.
 
-### DEMO
+### [DEMO](http://shashani-humanth.github.io/Notebook-AdminPanel)
